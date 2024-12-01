@@ -35,5 +35,12 @@ A modern user management application built using **Spring Boot**, **React**, and
 - **Tailwind CSS**: A utility-first CSS framework for designing a modern and responsive UI.
 - **Axios**: For making HTTP requests between the React app and the Spring Boot API.
 
+## Screenshots
 
+<div style="text-align: center;">
+    <img src="ss/home.png" style="margin-bottom: 10px;" />
+    <img src="ss/login.png" style="margin-bottom: 10px;"/>
+  <img src="ss/profle.png" style="margin-bottom: 10px;"/>
+   <img src="ss/users.png" style="margin-bottom: 10px;"/>
+</div>
  
